@@ -4,9 +4,7 @@ This repository contains a options contract pricing model
 
 ## Files
 
-- **LSTM.ipynb**: Jupyter notebook containing the LSTM model implementation.
-- **app.py**: Streamlit application file for deploying the model.
-- **keras_model.h5**: Pre-trained LSTM model saved in HDF5 format.
+- **Black_scholes.ipynb**: created on google collab notebook.
 
 ## Dependencies
 
@@ -35,8 +33,7 @@ pip install numpy pandas matplotlib
 
 ## Model Training
 
-If you want to train the LSTM model yourself, refer to `LSTM.ipynb`. It includes the data preprocessing steps, model architecture, training, and evaluation.
-
+If you want to train the LSTM model yourself, refer to Black_scholes.ipynb
 ## Credits
 
 - **Author**: Ketan Arora
